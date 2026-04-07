@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class InsertionSort {
     public static void main(String[] args) {
         // Vetor exemplo para ordenação:
-        int vetor[] = {4, 6, 9, 1, 6, 3};
+        int vetor[] = {4, 6, 9, 1, 12, 3};
         int i, j, aux; // aux = variável auxiliar
 
         System.out.println("Vetor antes da ordenação:\n" + Arrays.toString(vetor));
